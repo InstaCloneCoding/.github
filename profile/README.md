@@ -1,8 +1,8 @@
 ## Hi there 👋
 
+- 스터디 공간!
 - 인스타그램 클론코딩을 위해 만듦.
 - 무지성 클론코딩 금지
-
 <!--
 
 **Here are some ideas to get you started:**
