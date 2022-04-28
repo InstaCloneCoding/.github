@@ -5,7 +5,7 @@
 - 스터디 공간!
 - 인스타그램 클론코딩을 위해 만듦.
 - 무지성 클론코딩 금지
-- [swagger API](https://app.swaggerhub.com/apis/Geol/INSTAGRAM_API/1.0.0)
+- [swagger API](https://app.swaggerhub.com/apis-docs/Geol/INSTAGRAM_API/1.0.0)
 
 ## 🌈 Contribution guidelines
 
