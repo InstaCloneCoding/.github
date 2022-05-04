@@ -6,7 +6,7 @@
 - 인스타그램 클론코딩을 위해 만듦.
 - 무지성 클론코딩 금지
 - 속도전보단 설계적인 측면으로 다가가기
-- [swagger API 정보](https://app.swaggerhub.com/apis-docs/Geol/INSTAGRAM_API/1.0.0)
+- [swagger API 정보](https://app.swaggerhub.com/apis-docs/Geol/INSTAGRAM_API/1.0.0-oas3#//%7Bid%7D)
 - [설계 및 정리 엑셀 스프레드](https://docs.google.com/spreadsheets/d/1_M5CaCzF7coMlub00azIHtJ-44_k0HPd/edit?usp=sharing&ouid=106118002379212206340&rtpof=true&sd=true)
 
 ## 🌈 Contribution guidelines
