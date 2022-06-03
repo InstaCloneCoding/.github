@@ -21,6 +21,8 @@
 
 - 데이터베이스 접속정보 노출 위험
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InstaCloneCoding&hide=css,scss,html&show_icons=true&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Here are some ideas to get you started:**
 
