@@ -21,11 +21,13 @@
 
 - 데이터베이스 접속정보 노출 위험
 
-[![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=geol2)](https://github.com/anuraghazra/github-readme-stats)
-- 인걸님
+## 멤버
 
+### 인걸
+[![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=geol2)](https://github.com/anuraghazra/github-readme-stats)
+
+## 성광
 [![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=rhtjdrhkd123)](https://github.com/anuraghazra/github-readme-stats)
-- 성광님
 
 <!--
 **Here are some ideas to get you started:**
