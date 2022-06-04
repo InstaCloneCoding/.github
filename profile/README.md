@@ -27,7 +27,7 @@
 [![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=rhtjdrhkd123)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✌ 인걸
-[![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=geol2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs1]([https://github-readme-stats.vercel.app/api/top-langs/?username=geol2)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=geol2&hide=css,scss,html&show_icons=true&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats))
 
 <!--
 **Here are some ideas to get you started:**
